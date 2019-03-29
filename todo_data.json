@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Study python",
+    "description": null,
+    "due_on": null,
+    "status": "done"
+  },
+  {
+    "task": "Learn branches",
+    "description": "We need to study branches and also exceptions",
+    "due_on": "2019-03-05 10:39:33",
+    "status": "pending"
+  }
+]
